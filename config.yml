@@ -1,0 +1,11 @@
+#not fool-proof
+
+compiler_name: minami
+# makesure its in your path!
+project_name: Lab6P1
+project_extender: .c
+# typing aswell please
+clear_screen: false
+with_build: aa
+# type lol to use folder lol
+# type PATH to assume
